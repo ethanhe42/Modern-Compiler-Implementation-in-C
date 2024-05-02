@@ -1,1 +1,3 @@
-# https://yihui-he.github.io/Modern-Compiler-Implementation-in-C/
+# Modern-Compiler-Implementation-in-C
+
+The book and my solutions to exercises are provided here
